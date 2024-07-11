@@ -5,7 +5,7 @@
 Произвести различные выгрузки данных венчурных фондов с помощью SQL
 
 ## База данных
-![bd](ссылка на png базы данных)
+![bd](https://github.com/IgorRatnikov/portfolio/blob/master/06_basic_sql/basic_sql_project_ERD.png)
 
 * acquisition (cодержит информацию о покупках одних компаний другими);
 * company (cодержит информацию о компаниях-стартапах);
