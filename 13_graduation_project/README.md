@@ -22,6 +22,6 @@
 *pandas, numpy, plotly*
 
 
-## Часть II: [SQL](https://github.com/IgorRatnikov/portfolio/blob/master/13_graduation_project_sql.ipynb)
+## Часть II: [SQL](https://github.com/IgorRatnikov/portfolio/blob/master/13_graduation_project/13_graduation_project_sql.ipynb)
 
 Ваша компания решила быть на волне и купила крупный сервис для чтения книг по подписке. Ваша первая задача как аналитика — проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта.
