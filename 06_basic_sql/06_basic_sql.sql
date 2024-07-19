@@ -75,9 +75,11 @@ ORDER BY AVG(invested_companies) DESC, country_code ASC
 LIMIT 10;
 
 ---
-SELECT p.first_name, p.last_name, e.instituition
+SELECT p.first_name,
+       p.last_name,
+       e.instituition
 FROM people AS p
-LEFT OUTER JOIN education AS e ON e.id = p.id;
+LEFT JOIN education AS e ON p.id = e.person_id;
 
 ---
 SELECT c.name,
